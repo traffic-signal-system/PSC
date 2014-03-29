@@ -1,0 +1,13 @@
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\bin\Release\PSC.exe.config
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\bin\Release\PSC.exe
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\bin\Release\PSC.pdb
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\bin\Release\Xceed.Wpf.Toolkit.dll
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\obj\Release\MainWindow.baml
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\obj\Release\MainWindow.g.cs
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\obj\Release\App.g.cs
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\obj\Release\PSC_MarkupCompile.cache
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\obj\Release\PSC.g.resources
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\obj\Release\PSC.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\obj\Release\PSC.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\obj\Release\PSC.exe
+D:\Documents\Visual Studio 2013\Projects\PSC\PSC\obj\Release\PSC.pdb
